@@ -1,0 +1,3 @@
+[submodule "src/catkin_purt"]
+	path = src/catkin_purt
+	url = https://github.com/jgoppert/catkin_purt.git
